@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<img src="./system-faturas/sistema-faturas.png">
+<img src="sistema-faturas.png">
 
 ## Licença
 
