@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 # Instalar as dependências
 <p>pip install pandas</p>
 <p>pip install pillow</p>
+<p>python -m venv nome_do_ambiente</p>
 
 <br>
 
