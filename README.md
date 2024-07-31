@@ -21,8 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <img src="sistema-faturas.png">
 
-## Licença
-
 ## Dependências
 
 <p>Ativar o ambiente virtual, no windows.</p> 
